@@ -21,6 +21,10 @@ import itertools
 from process_model_weights import *
 
 
+
+
+
+
 seq_length = 5
 
 files = ["002514.jpg",
